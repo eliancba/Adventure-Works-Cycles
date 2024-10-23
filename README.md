@@ -8,7 +8,7 @@ Gran empresa multinacional de fabricación que produce y distribuye bicicletas, 
 ## Objetivo
 
 <br>
-Proyecto Septiembre 2024 \
+Proyecto Septiembre 2024 n\
 Mejorar la calidad de los datos y crear un modelo de datos relacional, utilizar DAX para calcular métricas clave. Diseñar informes que no solo sean visualmente atractivos, sino también informativos y fáciles de entender.
 
 <br>
